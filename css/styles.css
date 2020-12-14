@@ -1,13 +1,20 @@
 body {
-  background-color: powderblue;
+  background-color: #bedbbb;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: lightgray;
+  border-color: #8db596;
   border-width: 5px;
   width: 30%;
+}
+h1 {
+  text-align: center;
+  color: #f05454;
+}
+h2 {
+  color: #30475e;
 }
 
 img {
